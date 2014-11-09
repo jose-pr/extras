@@ -11,7 +11,7 @@ type=rpm-md
 baseurl=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer-Beta/Fedora_20/
 gpgcheck=1
 gpgkey=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer-Beta/Fedora_20/repodata/repomd.xml.key
-enabled=1
+enabled=0
 [MediaBrowserServer-Dev]
 name=home:jose-pr:MediaBrowserServer-Dev (Fedora_20)
 type=rpm-md
