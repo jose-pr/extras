@@ -1,0 +1,21 @@
+[MediaBrowserServer]
+name=Media Browser Server is a home media server built on top of other popular open source technologies such as Service Stack, jQuery, jQuery mobile, and Mono. (Fedora_20)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer/Fedora_20/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer/Fedora_20/repodata/repomd.xml.key
+enabled=1
+[MediaBrowserServer-Beta]
+name=home:jose-pr:MediaBrowserServer-Beta (Fedora_20)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer-Beta/Fedora_20/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer-Beta/Fedora_20/repodata/repomd.xml.key
+enabled=1
+[MediaBrowserServer-Dev]
+name=home:jose-pr:MediaBrowserServer-Dev (Fedora_20)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer-Dev/Fedora_20/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/jose-pr:/MediaBrowserServer-Dev/Fedora_20/repodata/repomd.xml.key
+enabled=0
